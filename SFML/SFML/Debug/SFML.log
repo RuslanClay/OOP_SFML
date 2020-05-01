@@ -1,0 +1,78 @@
+﻿  checkers.cpp
+c:\users\xiaom\source\repos\sfml\sfml\board.h(20): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+c:\users\xiaom\source\repos\sfml\sfml\board.h(20): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+c:\users\xiaom\source\repos\sfml\sfml\board.h(33): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+c:\users\xiaom\source\repos\sfml\sfml\board.h(63): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+c:\users\xiaom\source\repos\sfml\sfml\board.h(65): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+c:\users\xiaom\source\repos\sfml\sfml\board.h(70): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+c:\users\xiaom\source\repos\sfml\sfml\board.h(72): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+c:\users\xiaom\source\repos\sfml\sfml\checker_on_board.h(66): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\xiaom\source\repos\sfml\sfml\game.h(96): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+c:\users\xiaom\source\repos\sfml\sfml\game.h(98): warning C4244: аргумент: преобразование "T" в "float", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+c:\users\xiaom\source\repos\sfml\sfml\game.h(100): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+c:\users\xiaom\source\repos\sfml\sfml\game.h(101): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+c:\users\xiaom\source\repos\sfml\sfml\game.h(110): warning C4244: аргумент: преобразование "T" в "float", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+c:\users\xiaom\source\repos\sfml\sfml\game.h(114): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+c:\users\xiaom\source\repos\sfml\sfml\game.h(115): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+c:\users\xiaom\source\repos\sfml\sfml\game.h(147): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+c:\users\xiaom\source\repos\sfml\sfml\game.h(149): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+c:\users\xiaom\source\repos\sfml\sfml\game.h(152): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+c:\users\xiaom\source\repos\sfml\sfml\game.h(154): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+c:\users\xiaom\source\repos\sfml\sfml\game.h(159): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+c:\users\xiaom\source\repos\sfml\sfml\game.h(161): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+c:\users\xiaom\source\repos\sfml\sfml\game.h(164): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+c:\users\xiaom\source\repos\sfml\sfml\game.h(166): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+c:\users\xiaom\source\repos\sfml\sfml\game.h(177): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+c:\users\xiaom\source\repos\sfml\sfml\game.h(178): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+c:\users\xiaom\source\repos\sfml\sfml\game.h(179): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+c:\users\xiaom\source\repos\sfml\sfml\game.h(181): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+c:\users\xiaom\source\repos\sfml\sfml\game.h(187): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+c:\users\xiaom\source\repos\sfml\sfml\game.h(188): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+c:\users\xiaom\source\repos\sfml\sfml\game.h(189): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+c:\users\xiaom\source\repos\sfml\sfml\game.h(191): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+c:\users\xiaom\source\repos\sfml\sfml\game.h(197): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+c:\users\xiaom\source\repos\sfml\sfml\game.h(198): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+c:\users\xiaom\source\repos\sfml\sfml\game.h(199): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+c:\users\xiaom\source\repos\sfml\sfml\game.h(201): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+c:\users\xiaom\source\repos\sfml\sfml\game.h(207): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+c:\users\xiaom\source\repos\sfml\sfml\game.h(208): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+c:\users\xiaom\source\repos\sfml\sfml\game.h(209): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+c:\users\xiaom\source\repos\sfml\sfml\game.h(211): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+c:\users\xiaom\source\repos\sfml\sfml\game.h(225): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+c:\users\xiaom\source\repos\sfml\sfml\game.h(252): warning C4838: преобразование из "int" в "bool" требует сужающего преобразования
+c:\users\xiaom\source\repos\sfml\sfml\game.h(254): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+c:\users\xiaom\source\repos\sfml\sfml\game.h(255): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+c:\users\xiaom\source\repos\sfml\sfml\game.h(259): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+c:\users\xiaom\source\repos\sfml\sfml\game.h(265): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+c:\users\xiaom\source\repos\sfml\sfml\game.h(289): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+c:\users\xiaom\source\repos\sfml\sfml\game.h(290): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+c:\users\xiaom\source\repos\sfml\sfml\game.h(292): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+c:\users\xiaom\source\repos\sfml\sfml\game.h(298): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+c:\users\xiaom\source\repos\sfml\sfml\game.h(322): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+c:\users\xiaom\source\repos\sfml\sfml\game.h(323): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+c:\users\xiaom\source\repos\sfml\sfml\game.h(325): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+c:\users\xiaom\source\repos\sfml\sfml\game.h(331): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+c:\users\xiaom\source\repos\sfml\sfml\game.h(355): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+c:\users\xiaom\source\repos\sfml\sfml\game.h(356): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+c:\users\xiaom\source\repos\sfml\sfml\game.h(358): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+c:\users\xiaom\source\repos\sfml\sfml\game.h(364): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+c:\users\xiaom\source\repos\sfml\sfml\game.h(400): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+c:\users\xiaom\source\repos\sfml\sfml\game.h(401): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+c:\users\xiaom\source\repos\sfml\sfml\game.h(418): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+c:\users\xiaom\source\repos\sfml\sfml\game.h(419): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+c:\users\xiaom\source\repos\sfml\sfml\game.h(436): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+c:\users\xiaom\source\repos\sfml\sfml\game.h(437): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+c:\users\xiaom\source\repos\sfml\sfml\game.h(454): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+c:\users\xiaom\source\repos\sfml\sfml\game.h(455): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+c:\users\xiaom\source\repos\sfml\sfml\game.h(474): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+c:\users\xiaom\source\repos\sfml\sfml\game.h(33): warning C4715: Game::centre_on_square: значение возвращается не при всех путях выполнения
+c:\users\xiaom\source\repos\sfml\sfml\game.h(395): warning C4715: Game::queen_square_for_move: значение возвращается не при всех путях выполнения
+LINK : fatal error LNK1104: не удается открыть файл "sfml-graphics-d.lib"
